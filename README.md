@@ -38,9 +38,9 @@ When finished, run `make down` to stop all containers.
 This repository has the basic installation of a Laravel project at version 7.* with `laravel/ui`.
 
 ### Instructions
-- Fork this repository to your GitHub account
+- Fork this repository to your GitHub account into a **PUBLIC REPOSITORY**
 - Complete the tasks given, paying attention to all requirements
-- Once completed, create a Pull Request to this repository
+- Once completed, send us the link to your repository!
 
 ### Project
 
