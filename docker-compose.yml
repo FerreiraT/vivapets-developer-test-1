@@ -29,8 +29,6 @@ services:
         container_name: vivapets-test-db
         volumes:
             - vivapets-test-mysql-data:/var/lib/mysql
-        networks:
-            - vivapets-test-internal-network
         environment:
             - MYSQL_ROOT_PASSWORD=VivapetsTest123
             - MYSQL_ALLOW_EMPTY_PASSWORD=no
